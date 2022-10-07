@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.List;
+s
 import java.util.*;
 public class Lambd4 {
     public static void main(String[] args) {

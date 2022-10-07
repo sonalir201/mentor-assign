@@ -30,7 +30,7 @@ interface greater {
 interface increment {
     int inc(int a);
 }
-//fhfhf
+
 interface convertupper {
     String convert(String a);
 }
